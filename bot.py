@@ -1,7 +1,6 @@
 import telebot
 import random
 import logging
-import logging
 import asyncio
 from datetime import datetime
 
